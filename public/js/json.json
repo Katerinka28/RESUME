@@ -1,0 +1,32 @@
+[{
+  "bio": {
+    "name": "Olivia",
+    "role": "Minister of Magic",
+    "contacts": {
+      "mobile": "+45(50)66688933",
+      "email": "olivia_minister@gmail.com",
+      "github": "oliva25",
+      "twitter": "",
+      "blog": "blogname",
+      "location": "UK, London"
+    },
+    "welcomeMessage": "Hello, my friend",
+    "skills": ["pretty", "smart", "love to tacking"],
+    "biopic": "https://medialeaks.ru/wp-content/uploads/2017/10/catbread-03-600x400.jpg",
+    "display": ""
+  },
+  "education": {
+    "schools": [{
+         "name": "schoolName"},
+         {"location": "London"},
+         {"degree": "string"},
+         {"majors": ["srt1", "str2", "str3"]},
+         {"dates": "25.12.2000 - 25.12.2005"},
+         {"url": ""}],
+    "onlineCourses": [
+          {"title": "string"},
+         {"school": "string"},
+         {"dates": "15.05-15.10"},
+         {"url": "http://cources"}],
+    "display": "function"}
+}]
